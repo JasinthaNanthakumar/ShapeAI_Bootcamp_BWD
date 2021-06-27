@@ -4,7 +4,7 @@ function Info() {
   return (
     <div className="note">
       <h1>Javascript and React.js</h1>
-      <p>vasic wev dev React Js Bootcamp</p>
+      <p>Basic wev dev React Js Bootcamp</p>
     </div>
   );
 }
